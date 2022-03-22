@@ -1,5 +1,5 @@
 # Triaffine-nested-ner
-Fusing Heterogeneous Factors with Triaffine Mechanismfor Nested Named Entity Recognition [ACL2022 Findings] [Paper link](https://arxiv.org/abs/2110.07480)
+Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition [ACL2022 Findings] [Paper link](https://arxiv.org/abs/2110.07480)
 
 # Environment
 All codes are tested under Python 3.7, PyTorch 1.7.0 and Transformers 4.6.1.
