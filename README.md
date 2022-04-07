@@ -4,6 +4,7 @@ Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Re
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fusing-heterogeneous-factors-with-triaffine/nested-named-entity-recognition-on-ace-2004)](https://paperswithcode.com/sota/nested-named-entity-recognition-on-ace-2004?p=fusing-heterogeneous-factors-with-triaffine)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fusing-heterogeneous-factors-with-triaffine/nested-named-entity-recognition-on-ace-2005)](https://paperswithcode.com/sota/nested-named-entity-recognition-on-ace-2005?p=fusing-heterogeneous-factors-with-triaffine)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fusing-heterogeneous-factors-with-triaffine/nested-named-entity-recognition-on-genia)](https://paperswithcode.com/sota/nested-named-entity-recognition-on-genia?p=fusing-heterogeneous-factors-with-triaffine)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fusing-heterogeneous-factors-with-triaffine/nested-named-entity-recognition-on-tac-kbp)](https://paperswithcode.com/sota/nested-named-entity-recognition-on-tac-kbp?p=fusing-heterogeneous-factors-with-triaffine)
 
 
 # Environment
