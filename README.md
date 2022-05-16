@@ -63,11 +63,19 @@ CUDA_VISIBLE_DEVICES=0 python main.py --version kbp --model SpanAttModelV3 --ber
 
 # Citations
 ```
-@article{Yuan2021FusingHF,
-  title={Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition},
-  author={Zheng Yuan and Chuanqi Tan and Songfang Huang and Fei Huang},
-  journal={ArXiv},
-  year={2021},
-  volume={abs/2110.07480}
+@inproceedings{yuan-etal-2022-fusing,
+    title = "Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition",
+    author = "Yuan, Zheng  and
+      Tan, Chuanqi  and
+      Huang, Songfang  and
+      Huang, Fei",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.250",
+    pages = "3174--3186",
+    abstract = "Nested entities are observed in many domains due to their compositionality, which cannot be easily recognized by the widely-used sequence labeling framework.A natural solution is to treat the task as a span classification problem.To learn better span representation and increase classification performance, it is crucial to effectively integrate heterogeneous factors including inside tokens, boundaries, labels, and related spans which could be contributing to nested entities recognition.To fuse these heterogeneous factors, we propose a novel triaffine mechanism including triaffine attention and scoring.Triaffine attention uses boundaries and labels as queries and uses inside tokens and related spans as keys and values for span representations.Triaffine scoring interacts with boundaries and span representations for classification.Experiments show that our proposed method outperforms previous span-based methods, achieves the state-of-the-art $F_1$ scores on nested NER datasets GENIA and KBP2017, and shows comparable results on ACE2004 and ACE2005.",
 }
 ```
