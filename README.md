@@ -23,6 +23,9 @@ Please put datas under data/dataset_name, you can also refer word_embed.generate
 # Extract word embedding
 Please download [cc.en.300.bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz) and [BioWordVec_PubMed_MIMICIII_d200.bin](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioWordVec_PubMed_MIMICIII_d200.bin) and run *python word_embed.py* to generate required json files. You need to change the path of word embedding.
 
+# Checkpoint
+[Genia](https://drive.google.com/file/d/1JpQF1LH4lM0eAjR0Asai3nwhq0H6qUDk/view?usp=share_link)
+
 # Reproduce
 To notice, you may need to change the path of bert_name_or_path by yourself.
 
